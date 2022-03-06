@@ -1,6 +1,6 @@
 ﻿program task_5
 print "3 reqemli eded qeyd eliyin"
-set a = 3 reqemli eded
+read a 
 if a < 100 or a >= 1000 then
 print "3 reqemli eded deyil"
 endif 

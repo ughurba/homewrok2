@@ -1,8 +1,8 @@
 ﻿program task_6
 print "birinci 5 reqemli ededi qeyd eliyin"
-set a = 5 reqemli eded 
+read a  
 print "ikinci 5 reqemli ededi qeyd eliyin"
-set b = 5 reqemli eded 
+read b  
 if a < 10000 or a >= 100000 or b < 10000 or b >= 100000 then
 print "yazdiqiniz eded 5 reqemli eded deyil"
 endif 
