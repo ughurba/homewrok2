@@ -1,0 +1,19 @@
+﻿program task_8
+set a = 6 reqemli
+set b = 6 reqemli
+set c = 6 reqemli
+set cem
+if a < 100000 or a >= 1000000 then
+print " A ededi 6 reqemli deyil"
+else if b < 100000 or b >= 1000000 then 
+print B ededi 6 reqemli deyil
+else if c < 100000 or c >= 1000000 then
+print C ededi 6 reqemli deyil
+endif 
+compute a = a / 100 * 10;
+compute b = b / 100 * 10;
+compute c = c / 100 * 10;
+compute cem = a + b + c;
+compute  cem = cem / 100 * 10;
+print cem
+end program

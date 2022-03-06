@@ -1,0 +1,10 @@
+﻿program task_5
+print "3 reqemli eded qeyd eliyin"
+set a = 3 reqemli eded
+if a < 100 or a >= 1000 then
+print "3 reqemli eded deyil"
+endif 
+compute a * 10 + 7
+compute a / 100 * 7 
+print a 
+end program

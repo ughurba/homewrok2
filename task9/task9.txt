@@ -1,0 +1,17 @@
+﻿program task_9
+set double a = 9432;
+set double b = 9234;
+set double c = 7654;
+set d 
+set cem
+if a < 1000 or a >= 10000 or b < 1000 or b >= 10000 or c < 1000 or c >= 10000 then
+print "4 reqemli eded deyil"
+endif 
+compute  a = a / 100 * 1;
+compute  d = c / 100 * 7;
+compute  b = b / 100 * 2;
+compute  c = c / 100 * 3;
+compute  cem = a - b - c;
+compute  cem = cem + d;
+print cem 
+end program

@@ -1,0 +1,11 @@
+﻿program task_4
+print  "4 reqemli eded qeyd eliyin"
+set a = 4 reqemli eded 
+if a >= 1000 and a < 10000 then 
+compute a = (a + 40000) * 100 + 44;
+compute a = a / 100 * 44;
+print a 
+else 
+print "dord reqemli deyil"
+endif 
+end program

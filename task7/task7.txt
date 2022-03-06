@@ -1,0 +1,13 @@
+﻿program task_7
+set a = 1234
+set b = 1234567
+if a < 1000 or a >= 10000 or b < 1000000 or b >= 10000000
+then 
+print "yazdiqiniz 4 ve ya 7 reqemli eded deyil"
+compute a = a / 100 * 4
+print a " birinci ededin 4 %"
+compute b = b / 100 * 9
+print b " ikinci ededin 9 %"
+compute c = (a + b) / 100 * 10;
+print c "birinci ve ikinci ededlerin toplanmiw 10%"
+end program

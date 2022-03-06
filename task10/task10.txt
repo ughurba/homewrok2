@@ -1,0 +1,11 @@
+﻿program task_10
+set a = 1234
+if a >= 1000 and a < 10000 then
+compute a = a / 100 * 20;
+compute a = a / 100 * 10; 
+compute a = a * a;
+print a 
+else 
+print "bu eded 4 reqemli eded deyil"
+endif 
+end program 

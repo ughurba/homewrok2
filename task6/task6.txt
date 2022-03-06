@@ -1,0 +1,14 @@
+﻿program task_6
+print "birinci 5 reqemli ededi qeyd eliyin"
+set a = 5 reqemli eded 
+print "ikinci 5 reqemli ededi qeyd eliyin"
+set b = 5 reqemli eded 
+if a < 10000 or a >= 100000 or b < 10000 or b >= 100000 then
+print "yazdiqiniz eded 5 reqemli eded deyil"
+endif 
+init c 
+compute c = (a + b + 500000) * 10 + 5;
+print c 
+compute c = c / 100 * 5 
+print c "5%"
+end program

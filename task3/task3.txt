@@ -1,0 +1,34 @@
+﻿program task_3
+init double a , b 
+print "secim edin 18% yoxsa 3%"
+init secim = 18% yoxsa 3%
+
+if secim == 18 then 
+print "5 reqemli eded daxil edin"
+init a = 5 reqemli eded 
+
+if a < 100000 and a >= 10000 then 
+init b 
+compute b = a / 100 * 18
+print b 
+else 
+print "5 reqemli eded deyil"
+endif 
+
+else if secim == 3 then 
+print "5 reqemli eded daxil edin"
+init a = 5 reqemli eded 
+if a < 100000 and a >= 10000 then 
+init b 
+compute b = a / 100 * 3
+print b
+else 
+print "5 reqemli eded deyil"
+endif 
+
+
+else
+print "duzgun secim etmediniz"
+endif 
+
+end program

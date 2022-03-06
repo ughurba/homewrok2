@@ -1,0 +1,11 @@
+﻿program task_1
+set a = 1000
+IF a < 1000 or a >= 10000 THEN
+print "4 reqemli eded deyil"
+endif 
+
+init b
+  compute b = a + 70000
+compute b = b * 10 + 8
+print b 
+end program

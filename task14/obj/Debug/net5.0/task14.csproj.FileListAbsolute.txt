@@ -1,0 +1,16 @@
+C:\Users\Clean__Laptop\Desktop\myProject c#\homework2\task14\bin\Debug\net5.0\task14.exe
+C:\Users\Clean__Laptop\Desktop\myProject c#\homework2\task14\bin\Debug\net5.0\task14.deps.json
+C:\Users\Clean__Laptop\Desktop\myProject c#\homework2\task14\bin\Debug\net5.0\task14.runtimeconfig.json
+C:\Users\Clean__Laptop\Desktop\myProject c#\homework2\task14\bin\Debug\net5.0\task14.runtimeconfig.dev.json
+C:\Users\Clean__Laptop\Desktop\myProject c#\homework2\task14\bin\Debug\net5.0\task14.dll
+C:\Users\Clean__Laptop\Desktop\myProject c#\homework2\task14\bin\Debug\net5.0\task14.pdb
+C:\Users\Clean__Laptop\Desktop\myProject c#\homework2\task14\obj\Debug\net5.0\task14.csproj.AssemblyReference.cache
+C:\Users\Clean__Laptop\Desktop\myProject c#\homework2\task14\obj\Debug\net5.0\task14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clean__Laptop\Desktop\myProject c#\homework2\task14\obj\Debug\net5.0\task14.AssemblyInfoInputs.cache
+C:\Users\Clean__Laptop\Desktop\myProject c#\homework2\task14\obj\Debug\net5.0\task14.AssemblyInfo.cs
+C:\Users\Clean__Laptop\Desktop\myProject c#\homework2\task14\obj\Debug\net5.0\task14.csproj.CoreCompileInputs.cache
+C:\Users\Clean__Laptop\Desktop\myProject c#\homework2\task14\obj\Debug\net5.0\task14.dll
+C:\Users\Clean__Laptop\Desktop\myProject c#\homework2\task14\obj\Debug\net5.0\refint\task14.dll
+C:\Users\Clean__Laptop\Desktop\myProject c#\homework2\task14\obj\Debug\net5.0\task14.pdb
+C:\Users\Clean__Laptop\Desktop\myProject c#\homework2\task14\obj\Debug\net5.0\task14.genruntimeconfig.cache
+C:\Users\Clean__Laptop\Desktop\myProject c#\homework2\task14\obj\Debug\net5.0\ref\task14.dll

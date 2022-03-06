@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Clean__Laptop\\Desktop\\homework2\\task10\\task10.csproj": {}
+    "C:\\Users\\Clean__Laptop\\Desktop\\myProject c#\\homework2\\task10\\task10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Clean__Laptop\\Desktop\\homework2\\task10\\task10.csproj": {
+    "C:\\Users\\Clean__Laptop\\Desktop\\myProject c#\\homework2\\task10\\task10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Clean__Laptop\\Desktop\\homework2\\task10\\task10.csproj",
+        "projectUniqueName": "C:\\Users\\Clean__Laptop\\Desktop\\myProject c#\\homework2\\task10\\task10.csproj",
         "projectName": "task10",
-        "projectPath": "C:\\Users\\Clean__Laptop\\Desktop\\homework2\\task10\\task10.csproj",
+        "projectPath": "C:\\Users\\Clean__Laptop\\Desktop\\myProject c#\\homework2\\task10\\task10.csproj",
         "packagesPath": "C:\\Users\\Clean__Laptop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Clean__Laptop\\Desktop\\homework2\\task10\\obj\\",
+        "outputPath": "C:\\Users\\Clean__Laptop\\Desktop\\myProject c#\\homework2\\task10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
